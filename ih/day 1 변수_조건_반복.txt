@@ -1,0 +1,41 @@
+<html>
+<head>
+스타일 -> CSS
+스크립 -> Java script
+</head>
+<body>
+뭔가를 쓰면 보여
+
+    <script>
+    //var result = "이" + "일환";
+    //curly bracelet {}
+    //아 씨발 잘 작동안해 내 후임이 할꺼야
+    //조건문 연습 
+    //변수 연습
+    //반복 연습
+
+    var hour = 19;
+    var greeting = "";
+
+    if (hour < 18) {
+      greeting = "Good day";
+    } else {
+      greeting = "good night";
+    }
+
+    //alert(greeting);
+
+    //스타팅, 끝나는 조건, 반복 조건
+    var text;
+
+    for (i = 1; i < 10; i++) {
+      text = 2*i;
+      console.log(text);
+    }
+
+
+    //console.log("이일환"); <- String / Number
+    </script>
+
+</body>
+</html>
