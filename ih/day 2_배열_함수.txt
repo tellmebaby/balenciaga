@@ -1,0 +1,56 @@
+<html>
+<head>
+</head>
+<body>
+
+<script>
+//변수
+var name = "이일환";
+//배열 array
+var list = ["아이팟", "홍성", "김해원", "이일환", "kay"];
+//컴퓨터는 0 부터 시작
+//console.log(name);
+//console.log(list[0]);
+
+
+
+
+
+//함수, parameter 매개변수, 리턴 return
+function shoot(chara, enemy) {
+	console.log(chara+" 총쏘기");
+	console.log(enemy+"로 부터 씨에스 획득");
+	console.log(enemy+"에게 데미지 들어감");		
+}
+
+var myChar = "미스포츈";
+var myEnemy = "미니언";
+
+shoot(myChar, myEnemy);
+
+var resultShoot = shoot(myChar, myEnemy);
+
+console.log(resultShoot);
+
+//더하기를 리턴 함수.
+function plusKay(p1, p2) {
+  var result = p1 + p2;
+  return result;   
+}
+
+var plusResult = plusKay(2, 3);
+
+console.log(plusResult);
+
+//숙제 - 배열을 받아서 그안에 있는것 들을 전부 콘솔 로그 찍는 함수
+
+function listConsoleLog(p1){
+//
+//
+//
+}
+
+</script>
+
+</body>
+</html>
