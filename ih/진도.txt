@@ -1,0 +1,58 @@
+Day 1
+
+1. 목표 사이트
+
+2. 네이버는 어케 생겼고 작동하나 - chrome console log / development tool
+3. HTML
+4. JAVASCRIPT
+
+5. console log / alert Hello World 출력
+
+프로그램은 이게 다
+6. var 변수
+7. if else 조건
+8. for 반복문
+
+난이도 있는거
+9. create element 자바스크립트가 쓰이는 이유 https://www.w3schools.com/js/tryit.asp?filename=tryjs_dom_elementcreate
+10. try catch finally 에러잡기 https://www.w3schools.com/js/js_errors.asp
+
+숙제 - 구구단 / 나무 그리기
+
+Day 2
+
+1. array 배열
+https://www.w3schools.com/js/js_arrays.asp
+
+2. function 함수
+https://www.w3schools.com/js/js_functions.asp
+
+3. 숙제 - 배열을 받아서 그안에 있는것 들을 전부 콘솔 로그 찍는 함수
+
+Day 3
+
+1. git 깃 
+
+2. array 배열 심화 / 길이, sorting정렬, 추가
+https://www.w3schools.com/js/tryit.asp?filename=tryjs_array_holes
+
+3. create element 자바스크립트가 쓰이는 이유 https://www.w3schools.com/js/tryit.asp?filename=tryjs_dom_elementcreate
+
+DIV / P
+
+https://www.w3schools.com/js/js_htmldom_html.asp
+https://www.w3schools.com/js/js_htmldom_css.asp
+
+4. HTML table 표 
+https://www.w3schools.com/html/html_tables.asp
+
+5. 숙제 - 배열을 받아서 그안에 있는것들을 표로 표현
+
+
+
+
+
+Day 4
+
+
+
